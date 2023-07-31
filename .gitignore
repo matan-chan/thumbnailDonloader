@@ -1,0 +1,5 @@
+music/*
+finishedMusic/*
+node_modules
+!music
+!finishedMusic
